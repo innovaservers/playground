@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Fare una prova sembra non costare molto"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
